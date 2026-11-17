@@ -17,6 +17,7 @@ https://github.com/avito-tech/tech-internship/tree/main/Tech%20Internships/QA/QA
 - **Полное покрытие всех граничных случаев API**: обеспечиваю прохождение основного сценария и части негативных кейсов в рамках отведённого времени.
 
 ## Как запустить
+Требуется Python 3.10+
 ```bash
 pip install -r requirements.txt
 pytest test_api.py -v
